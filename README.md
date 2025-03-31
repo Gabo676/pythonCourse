@@ -14,12 +14,6 @@ python --version
 
 # En algunos sistemas operativos el ejecutable es otro
 python3 --version
-
-# Clona el repositorio
-git clone https://github.com/midudev/curso-python
-
-# Accede al directorio
-cd curso-python
 ```
 
 > [!TIP]
