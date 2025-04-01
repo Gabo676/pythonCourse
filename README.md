@@ -1,4 +1,4 @@
-[<div align="center">
+<div align="center">
   
 # Curso de Python para Automatización 🐍
 
