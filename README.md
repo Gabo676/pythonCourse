@@ -1,4 +1,4 @@
-<div align="center">
+[<div align="center">
   
 # Curso de Python para Automatización 🐍
 
@@ -89,3 +89,4 @@ python3 --version
 <div align="center">
   <em>© 2025 Curso de Python para Automatización</em>
 </div>
+](https://github.com/Gabo676/pythonCourse/tree/main)
